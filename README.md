@@ -1,2 +1,2 @@
 # cyphal.co
-<a href='www.cyphal.co'>cyphal.co</a>
+<a href='http://cyphal.co'>cyphal.co</a>
